@@ -1,0 +1,10 @@
+export 'package:parcial_final_app/vistas/creditos_screen.dart';
+export 'package:flutter/material.dart';
+export 'package:parcial_final_app/vistas/actividad_screen.dart';
+export 'package:parcial_final_app/vistas/objetivos_screen.dart';
+export 'package:parcial_final_app/vistas/principios_screen.dart';
+export 'package:parcial_final_app/vistas/herramientas_screen.dart';
+export 'package:parcial_final_app/vistas/diferencia3d2d_screen.dart';
+export 'package:parcial_final_app/vistas/historia_screen.dart';
+export 'package:parcial_final_app/vistas/proposito_screen.dart';
+export 'package:parcial_final_app/vistas/home_screen.dart';
